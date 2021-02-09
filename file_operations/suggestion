@@ -1,0 +1,11 @@
+find = 'chicken'
+found = False
+with open ('ten_plik.txt', 'r') as f:
+    for line in f:
+        if find in line:
+            found = True
+
+if found:
+    print (f' Your word  {find} is in line {line}')
+else:
+    print(f' There is no word: {find} in your file.)

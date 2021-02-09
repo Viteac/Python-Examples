@@ -1,0 +1,8 @@
+
+krowa
+pies
+kogut
+pies
+kura
+kot
+
