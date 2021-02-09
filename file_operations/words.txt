@@ -1,5 +1,0 @@
-No to mamy wlasnie ten plik.
-To jest plik zawierajacy rozne slowa
-Ten plik nalezy zliczyc slowa.
-Gdy ten plik zostanie policzony, to zrob liste i wskaz slowa max i min wystepujace.
-
